@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile, I'm Luccas!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Luccas%2C+welcome+to+my+profile+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h3 align="center">A highly enthusiastic backend developer.</h3>
 
